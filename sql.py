@@ -29,7 +29,7 @@ Your task is to evaluate the SQL code and queries.
 You must consider that SQL is very important, and you should provide 
 the best assistance for improving the SQL queries.
 
-I want the response very improved and accurate, always structured like a professional coder.
+I want the response as an improved version of the input , always structured like a professional coder.
 """
 
 # Streamlit app
